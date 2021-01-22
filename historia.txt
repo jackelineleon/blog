@@ -11,4 +11,7 @@ y su sueño es darle casa mamà su casita de 2 pisos
 version inicial
 
 version 0.2
+
+version 0.3
+
     
