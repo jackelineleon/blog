@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    width: 100vw;
+    height: 100wh;
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+    width: 100%;
+    height: 100%;
+}
+.centro{
+    border: 1px solid gray;
+    width: 70%;
+    height: 30%;
+    margin: auto;
+    text-align: center;
+}
+.centro .hh{
+    background: #3232c7;
+    margin: 0;
+    padding: 10px;
+    color: white;
+}
+.centro p{
+    text-align: left;
+}
