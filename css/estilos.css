@@ -38,7 +38,7 @@ body{
     margin: 0;
     padding: 10px;
     color: white;
-    text-decoration: line-through;
+    text-decoration: none;
 }
 .centro p{
     text-align: left;
